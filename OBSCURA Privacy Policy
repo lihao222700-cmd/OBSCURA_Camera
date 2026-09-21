@@ -1,0 +1,37 @@
+OBSCURA Privacy Policy
+Effective date: 21 September 2026
+
+This policy describes how the OBSCURA iPhone app handles capture data and permissions. It reflects the current shipping behavior and does not promise encryption or cloud features that are not implemented. The developer is the seller shown on the App Store product page. Using the app means you have read this policy.
+
+What we do not collect
+OBSCURA does not create accounts and does not upload photos, videos, audio, or settings to our servers. We do not operate a cloud that receives your captures. We do not collect name, email, phone number, location, contacts, or advertising identifiers, and we do not use analytics, crash reporting, ads, or third-party tracking SDKs. The app does not send content to any server in the background.
+
+Permissions
+Camera: used only to capture photos and videos on this device.
+Microphone: used only while recording video. Still photos do not use the microphone.
+Photo Library (Add Only): used only when you export an item to the Photos app. The app does not read or browse your library.
+Face ID: used only if you enable the in-app archive lock, to verify access to the archive. Biometric templates stay in the system Secure Enclave; the app receives only success or failure and does not store biometric data.
+System photo picker: used only if you choose a lock-screen wallpaper. The picker is provided by the system. The app does not receive full library access.
+On-device storage and backup
+Photos, videos, thumbnails, and the archive index are stored in the app’s Application Support directory and excluded from iCloud backup. Lock-screen wallpaper is also excluded. Uninstalling the app deletes captures that were not exported. Preferences such as lens and capture-skin choices are stored in UserDefaults and may be included in an iOS device backup; capture files are not. Temporary recording files live in the system temporary directory and are moved into the archive or deleted when recording ends.
+
+Export and sharing
+Files leave the app only if you export them to Photos or use the system share sheet. Copies saved to Photos follow your Photos and iCloud Photos settings and may sync via iCloud Photos. That is not an upload by this app. Shared items go only to the destination you choose at that moment. The app cannot retract a copy after you share it.
+
+Archive lock
+If you enable the biometric archive lock, Face ID or the device passcode is required to open the archive in the app. This only blocks viewing inside the app. It does not encrypt files. Someone with access to an unlocked device may still reach unencrypted files through other means. Do not treat this app as a professional vault.
+
+System indicators
+iOS camera and microphone indicators remain visible during capture. The app does not hide them. Black, dim, and lock-screen skins change preview appearance only. They do not change system indicators and are not permission to record others in secret.
+
+Children
+The app is not directed at children. Do not let children use it to record others, or use it without a parent or guardian’s consent where that is required.
+
+Retention and your choices
+Captures remain until you delete them in the archive or uninstall the app. Uninstalling deletes photos and videos that were not exported. Copies already saved to Photos or shared elsewhere are not removed. You can turn off camera, microphone, Face ID, or Photos add-only access in iOS Settings; the related features will stop working.
+
+Changes
+If our practices change in a material way, we will update this policy and the date at the top. Continued use means you understand the updated description.
+
+Contact
+Privacy questions: lihao222700@gmail.com. We cannot remotely view, restore, or delete files on your device.
